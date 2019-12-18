@@ -27,9 +27,13 @@ vue create 项目名
 # 运行项目
 npm run serve      //此处与旧版本不一样
 
+# 安装cube-ui
+vue add cube-ui
+
 ```
 #参考资料
 1.http://es6.ruanyifeng.com/#docs/string
+2.https://didi.github.io/cube-ui/#/zh-CN
 
 #坑点
 1.注意要是保持驼峰命名，驼峰大写字母前面要加-,HTML不区分大小写这个是原因
